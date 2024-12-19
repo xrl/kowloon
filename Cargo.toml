@@ -1,0 +1,10 @@
+[package]
+name = "kowloon"
+description = "Because who needs building permits when you've got determination"
+license = "MIT"
+homepage = "https://github.com/xrl/kowloon"
+repository = "https://github.com/xrl/kowloon"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
